@@ -1,9 +1,9 @@
 import React, { useState, useCallback, useContext, useEffect } from 'react';
 import defautclasses from "./APIFetcher/styles/default.module.css";
 // import "./APIFetcher/styles/bootstrap.css";
-import "bootstrap/dist/css/bootstrap.min.css";
-import "bootstrap/dist/js/bootstrap.bundle.min";
-import "bootstrap/dist/js/bootstrap.min.js";
+import "./APIFetcher/styles/bootstrap/dist/css/bootstrap.min.css";
+import "./APIFetcher/styles/bootstrap/dist/js/bootstrap.bundle.min.js";
+import "./APIFetcher/styles/bootstrap/dist/js/bootstrap.min.js";
 
 import prettify from "./APIFetcher/styles/prettify.module.css";
 import "./App.css";
