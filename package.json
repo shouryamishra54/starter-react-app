@@ -10,10 +10,7 @@
     "browserify-zlib": "^0.2.0",
     "crypto-browserify": "^3.12.0",
     "firebase": "^9.15.0",
-<<<<<<< HEAD
     "firebase-login": "^1.0.0",
-=======
->>>>>>> b2d305ed7b17da04bc48e631d42f0e92ca8594f6
     "formik": "^2.2.9",
     "querystring-es3": "^0.2.1",
     "react": "^17.0.2",
